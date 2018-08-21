@@ -3,23 +3,23 @@ A Support Ticket System based on Laravel.
 
 <h3>Features:</h3>
 
-<strong>1. Notifications: </strong>
+<br><strong>1. Notifications: </strong><br>
   - In-dashboard as well as email notifications whenever a new ticket is created or responded to.
-<strong>2. Support Tickets:</strong>
+<br><strong>2. Support Tickets:</strong><br>
   - User can open (crud included for admin) support tickets.
   - User has access to their own tickets only
-<strong>3. Categories/Departments:</strong>
+<br><strong>3. Categories/Departments:</strong><br>
   - Unlimited Categories/departments supported
-<strong>4. Ticket tracking status:</strong>
+<br><strong>4. Ticket tracking status:</strong><br>
   - Open, Resolved and closed
   - More status types can be easily added by admin
-<strong>5. Priority:</strong>
+<br><strong>5. Priority:</strong><br>
   - Low, Medium and High
   - More types can be added easily
-<strong>6. Users management:</strong>
+<br><strong>6. Users management:</strong><br>
   - Admin, Support Agent and Client User types built into the sstem
   - Unlimited user accounts can be created for your support agents and clients
-<strong>7. Products & Services:</strong>
+<br><strong>7. Products & Services:</strong><br>
   - Option to add briefs about your products and services
   - TODO: there could be an option on ticket creation screen to choose one of the products/services to which this ticket relates
   - Datatable  supported
